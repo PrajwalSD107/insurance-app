@@ -15,4 +15,5 @@ public class Member {
     private int age;
     private String contact;
     private String policyNumber;
+    private String Role;
 }
